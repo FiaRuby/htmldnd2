@@ -1,0 +1,59 @@
+img {
+	width:200;
+	border:2px solid pink;
+}
+
+div {
+	
+}
+
+body {
+	background-image: url('Images/background.webp');
+	background-repeat:no-repeat;
+	background-position: 0% 50%;
+	background-attachment: fixed;
+	
+	font-family: Arial;
+	
+}
+
+
+.red {
+	border: 2px solid pink;
+	background: rgba(255, 237, 244, 0.5);
+	width: 500px;
+	
+  margin-left: 700px;
+  margin-right: 10px;
+	position: relative;
+	text-align: center;
+	
+	
+}
+
+.yellow {
+	border: 2px solid pink;
+	background: rgba(255, 237, 244, 0.5);
+	width: 500px;
+	
+  margin-left: 700px;
+  margin-right: 10px;
+	position: relative;
+	
+	
+	
+}
+
+.blue {
+	margin-left: 850px;
+  margin-right: 10px;
+	position: relative;
+	
+}
+
+.green {
+	margin-left: 920px;
+  margin-right: 10px;
+	position: relative;
+	
+}

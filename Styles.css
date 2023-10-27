@@ -1,0 +1,54 @@
+img {
+	width:200;
+	border:2px solid pink;
+}
+
+div {
+	
+}
+
+body {
+	
+		 background-image: url('Images/background.png');
+		 background-repeat:no-repeat;
+		 background-position: 0% 50%;
+		 background-attachment: fixed;
+		 text-align: center;
+		
+
+	font-family: Arial;
+}
+
+
+.red {
+	
+	
+}
+
+.pink {
+	
+
+	
+	border: 2px solid pink;
+	background: rgba(255, 237, 244, 0.5);
+	width: 500px;
+	
+  margin-left: 700px;
+  margin-right: 10px;
+	position: relative;
+	text-align: center;
+}
+
+
+#specialStyle {
+	border: 2x solid red;
+}
+
+.center {
+	width: 100px;
+	display: block;
+  margin-left: 850px;
+  margin-right: 10px;
+	position: relative;
+	
+}
